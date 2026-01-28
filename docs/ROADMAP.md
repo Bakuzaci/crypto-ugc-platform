@@ -1,8 +1,24 @@
-# 🗺 Development Roadmap
+---
+title: Development Roadmap
+description: 7-phase development plan for building CryptoNoise from MVP to full platform
+outline: deep
+---
+
+# Development Roadmap
 
 ## Overview
 
 This roadmap breaks down the development into manageable phases. Each phase builds on the previous one and results in a deployable product.
+
+::: warning Status: Planning Phase
+This roadmap represents the planned development timeline. Actual implementation may vary based on team resources and priorities. Check the project repository for current progress.
+:::
+
+::: info Related Documentation
+- [Features](/docs/FEATURES) - Detailed feature specifications for each phase
+- [Technical Spec](/docs/TECHNICAL_SPEC) - Architecture decisions and tech stack
+- [Database Schema](/docs/DATABASE_SCHEMA) - Data model to be implemented
+:::
 
 ---
 

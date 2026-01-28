@@ -1,8 +1,20 @@
-# 🎨 UI Reference Guide
+---
+title: UI Reference Guide
+description: Design patterns, components, and visual language for CryptoNoise
+outline: deep
+---
+
+# UI Reference Guide
 
 ## Design Analysis of Noise (platform.getnoise.com)
 
 This document captures the design patterns, UI components, and visual language used by Noise to guide our crypto adaptation.
+
+::: info Related Documentation
+- [Technical Spec](/docs/TECHNICAL_SPEC) - Frontend tech stack and component libraries
+- [Features](/docs/FEATURES) - UI requirements for each feature
+- [Examples](/examples/) - Production-ready component implementations
+:::
 
 ---
 

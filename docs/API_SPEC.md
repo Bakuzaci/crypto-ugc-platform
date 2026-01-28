@@ -1,8 +1,20 @@
-# 🔌 API Specification
+---
+title: API Specification
+description: RESTful API documentation for CryptoNoise platform
+outline: deep
+---
+
+# API Specification
 
 ## Overview
 
 RESTful API built with Next.js API routes + Supabase Edge Functions. All endpoints require authentication unless marked as public.
+
+::: info Related Documentation
+- [Database Schema](/docs/DATABASE_SCHEMA) - Database tables and relationships
+- [Technical Spec](/docs/TECHNICAL_SPEC) - Architecture and authentication flow
+- [Features](/docs/FEATURES) - Feature requirements for each endpoint
+:::
 
 ---
 
@@ -21,9 +33,13 @@ Tokens are obtained via Supabase Auth and refresh automatically.
 ## Base URL
 
 ```
-Production: https://api.cryptonoise.io
+Production: https://cryptonoise.vercel.app/api
 Development: http://localhost:3000/api
 ```
+
+::: tip
+The production URL will be customized once a domain is configured. During development, use the Vercel preview URL or localhost.
+:::
 
 ---
 

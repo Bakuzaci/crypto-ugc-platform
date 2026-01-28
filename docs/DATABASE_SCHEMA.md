@@ -1,8 +1,20 @@
-# 🗄 Database Schema
+---
+title: Database Schema
+description: PostgreSQL database schema with Row Level Security for CryptoNoise
+outline: deep
+---
+
+# Database Schema
 
 ## Overview
 
 PostgreSQL database hosted on Supabase with Row Level Security (RLS) enabled on all tables.
+
+::: info Related Documentation
+- [Technical Spec](/docs/TECHNICAL_SPEC) - Backend architecture and Supabase configuration
+- [API Spec](/docs/API_SPEC) - API endpoints that interact with these tables
+- [Features](/docs/FEATURES) - Feature requirements that drive this schema design
+:::
 
 ---
 

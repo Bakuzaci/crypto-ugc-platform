@@ -1,3 +1,9 @@
+---
+title: Example Components
+description: Production-ready React components and code examples for CryptoNoise
+outline: deep
+---
+
 # Example Components
 
 This directory contains production-ready example components for building CryptoNoise.

@@ -1,4 +1,10 @@
-# 🏗 Technical Specification
+---
+title: Technical Specification
+description: Architecture, tech stack, and implementation details for CryptoNoise
+outline: deep
+---
+
+# Technical Specification
 
 ## Architecture Overview
 
@@ -49,17 +55,21 @@
 
 | Layer | Technology | Notes |
 |-------|------------|-------|
-| Framework | Next.js 14 (App Router) | Server components, streaming |
-| Language | TypeScript | Strict mode enabled |
-| Styling | Tailwind CSS | Dark theme primary |
+| Framework | Next.js 15 (App Router) | Server components, streaming, React 19 |
+| Language | TypeScript 5.3+ | Strict mode enabled |
+| Styling | Tailwind CSS 4 | Dark theme primary |
 | Components | shadcn/ui | Customized for crypto aesthetic |
 | Forms | React Hook Form + Zod | Type-safe validation |
 | State | Zustand | Client-side state management |
-| Data Fetching | TanStack Query | Server state, caching |
+| Data Fetching | TanStack Query v5 | Server state, caching |
 | Animations | Framer Motion | Smooth transitions |
 | Charts | Recharts | Analytics dashboards |
 | File Upload | react-dropzone | Drag & drop uploads |
 | Rich Text | Tiptap | Content templates |
+
+::: tip Version Updates
+This stack uses the latest stable versions as of January 2025. Always check for security updates before production deployment.
+:::
 
 ### Backend
 

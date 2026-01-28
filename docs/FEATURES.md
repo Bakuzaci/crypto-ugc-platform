@@ -1,4 +1,10 @@
-# 📋 Features Specification
+---
+title: Features Specification
+description: Complete feature breakdown for CryptoNoise organized by user type and priority
+outline: deep
+---
+
+# Features Specification
 
 ## Overview
 

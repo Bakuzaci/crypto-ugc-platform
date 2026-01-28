@@ -1,4 +1,10 @@
-# 🚀 CryptoNoise - Crypto UGC Creator Platform
+---
+title: CryptoNoise Documentation
+description: Two-sided marketplace connecting crypto projects with UGC creators
+outline: deep
+---
+
+# CryptoNoise - Crypto UGC Creator Platform
 
 ## Overview
 
