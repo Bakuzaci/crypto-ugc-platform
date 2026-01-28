@@ -1,0 +1,17 @@
+{
+  "name": "crypto-ugc-platform",
+  "version": "1.0.0",
+  "description": "CryptoNoise - Crypto UGC Creator Platform Documentation",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "keywords": ["crypto", "ugc", "creators", "web3", "documentation"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
